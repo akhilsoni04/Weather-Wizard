@@ -76,5 +76,5 @@ This project is open source and available under the MIT License.
 
 # ✨ Author
 
-- Akhil Soni
-- GitHub: @akhilsoni04
+**Akhil Soni**
+🌐 [GitHub Profile](https://github.com/akhilsoni04)  
