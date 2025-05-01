@@ -40,9 +40,8 @@ A sleek and responsive weather app that shows real-time weather information usin
 2. Navigate to the project folder
 cd weather-wizard
 
-4. Open index.html in your browser
+3. Open index.html in your browser
 
-3. const apiKey = "6c0c6c99cc6109633c88f4f4a0efbdf9";
 
 ---
 
