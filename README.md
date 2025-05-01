@@ -24,7 +24,7 @@ A sleek and responsive weather app that shows real-time weather information usin
 
 ## 📷 Demo
 
-![Weather App Screenshot](#)  
+![Weather App Screenshot](Assets/WeatherApp.png)  
 
 ---
 
