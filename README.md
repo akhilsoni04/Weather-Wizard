@@ -24,7 +24,7 @@ A sleek and responsive weather app that shows real-time weather information usin
 
 ## 🌐 Live Demo
 
-🚀 Check out the live app here: [Weather Wizard 🔗]([https://your-live-link.com](https://akhilsoni04.github.io/Weather-Wizard/)
+🚀 Check out the live app here: [Weather Wizard 🔗](https://akhilsoni04.github.io/Weather-Wizard/)
 
 > Hosted with ❤️ using GitHub Pages 
   
