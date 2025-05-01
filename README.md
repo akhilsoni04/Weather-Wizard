@@ -32,7 +32,7 @@ A sleek and responsive weather app that shows real-time weather information usin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/weather-wizard.git
+   git clone https://github.com/akhilsoni04/weather-wizard.git
    
 2. Navigate to the project folder
 cd weather-wizard
@@ -65,7 +65,7 @@ weather-wizard/
 
 ## 🌐 Live Demo
 
-👉 Click here to see the live project
+👉 Click here to see the live project.  
 Add your GitHub Pages / Netlify / Vercel live link here
 
 ---
