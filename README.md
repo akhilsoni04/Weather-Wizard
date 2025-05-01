@@ -39,17 +39,16 @@ cd weather-wizard
 
 4. Open index.html in your browser
 
-3. Insert your API key in the JavaScript file
-const apiKey = "6c0c6c99cc6109633c88f4f4a0efbdf9";
+3. const apiKey = "6c0c6c99cc6109633c88f4f4a0efbdf9";
 
 ---
 
 ## 🔑 Where to Get an API Key?
 
-Go to OpenWeatherMap
-Create a free account
-Navigate to API Keys and generate one
-Replace the placeholder in your JavaScript code
+1. Go to OpenWeatherMap
+2. Create a free account
+3. Navigate to API Keys and generate one
+4. Replace the placeholder in your JavaScript code
 
 ---
 
@@ -71,7 +70,8 @@ Add your GitHub Pages / Netlify / Vercel live link here
 
 ---
 
-#📌 License
+## 📌 License
+
 This project is open source and available under the MIT License.
 
 # ✨ Author
