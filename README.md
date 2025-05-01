@@ -22,9 +22,12 @@ A sleek and responsive weather app that shows real-time weather information usin
 
 ---
 
-## 📷 Demo
+## 🌐 Live Demo
 
-![Weather App Screenshot](Assets/WeatherApp.png)  
+🚀 Check out the live app here: [Weather Wizard 🔗](https://your-live-link.com)
+
+> Hosted with ❤️ using GitHub Pages 
+  
 
 ---
 
@@ -60,13 +63,6 @@ weather-wizard/
 ├── style.css         → CSS styling
 ├── script.js         → JavaScript logic
 └── README.md         → Project info
-
----
-
-## 🌐 Live Demo
-
-👉 Click here to see the live project.  
-Add your GitHub Pages / Netlify / Vercel live link here
 
 ---
 
